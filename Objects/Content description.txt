@@ -1,0 +1,5 @@
+Exercise_01 If num1 < num2 print square root else sum
+Exercise_02 Roll the dice to bring the ones
+Exercise_03 Swift an array of ten by one possition right (10)x times
+Exercise_04 Swift an array of ten by one possition right (10)x times using Double[]
+Exercise_05 The Tic - Tac - Toc (Triliza) game Ex_05-TicaTacToe + UserInteraction
